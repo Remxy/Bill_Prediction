@@ -1,1 +1,1 @@
-# Deployment on Microsoft Azure using docker container 
+# Deployment on Heroku using Flask and PyCaret package 
